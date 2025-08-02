@@ -4,6 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+In cmd clone the project using 
+
+for https
+###  git clone https://github.com/pramesh-gawas/multi-theme-switcher-app.git
+
+for ssh
+###  git clone git@github.com:pramesh-gawas/multi-theme-switcher-app.git
+
+for github cli
+###  git clone gh repo clone pramesh-gawas/multi-theme-switcher-app
+
 In the project directory, you can run:
 
 ### `npm start`
