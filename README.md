@@ -17,6 +17,10 @@ for github cli
 
 In the project directory, you can run:
 
+to install dependencies use 
+### npm install
+
+to run the project use
 ### `npm start`
 
 Runs the app in the development mode.\
